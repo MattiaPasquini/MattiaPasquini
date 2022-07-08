@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   - Java
   - C#
   - JS
-  - PHP
   - SQL
   - Python
+  - PHP
