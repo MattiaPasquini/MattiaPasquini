@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on DOS Group SA (front-end developer internship)
 - 🌱 I’m currently learning React JS
 - 📫 How to reach me: mattia.pasquini03@gmail.com
-- ⚡ Hobby: speedcubing
+- ⚡ Hobby: speedcubing (👀 look here ➡️ [WCA profile](https://www.worldcubeassociation.org/persons/2019PASQ01)
